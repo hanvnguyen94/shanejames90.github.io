@@ -909,7 +909,7 @@ section {
 .contact .info i {
   font-size: 20px;
   color: #0563bb;
-  float: left;
+  /* float: left; */
   width: 44px;
   height: 44px;
   background: #eef7ff;
